@@ -1,0 +1,29 @@
+.alert-danger{
+
+    margin:  0 auto;
+    background-color: #F8D7DA;
+    margin-top: 17px;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid #F5C6CB 1px;
+    font-size: 22px;
+    color: #721C24;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.alert-success{
+
+    margin:  0 auto;
+    background-color: #D4EDDA;
+    margin-top: 17px;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid #C3E6CB 1px;
+    font-size: 22px;
+    color: #155724;
+    border-radius: 5px;
+    text-align: center;
+}
